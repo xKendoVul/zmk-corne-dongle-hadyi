@@ -8,6 +8,8 @@ manifest:
       url-base: https://github.com/tokyo2006
     - name: englmaxi
       url-base: https://github.com/englmaxi
+    - name: mctechnology17
+      url-base: https://github.com/mctechnology17
   projects:
     - name: hammerbeam-slideshow
       remote: gpeye
@@ -22,5 +24,8 @@ manifest:
     - name: zmk-dongle-display
       remote: englmaxi
       revision: v0.3
+    - name: zmk-nice-oled
+      remote: mctechnology17
+      revision: main
   self:
     path: config
